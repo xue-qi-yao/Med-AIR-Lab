@@ -1,3 +1,7 @@
+.media-body {
+  text-align: left;
+}
+
 .cell {
   position: absolute;
   top: 0;
