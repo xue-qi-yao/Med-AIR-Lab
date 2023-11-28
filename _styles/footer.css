@@ -6,7 +6,6 @@ footer {
   gap: 20px;
   padding: 40px;
   line-height: var(--spacing);
-  box-shadow: var(--shadow);
 }
 
 footer a {
