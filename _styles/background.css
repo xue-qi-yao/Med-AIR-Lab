@@ -5,6 +5,10 @@
   background: var(--background);
 }
 
+.background img {
+  opacity: 1;
+}
+
 .background:before {
   content: "";
   position: absolute;
