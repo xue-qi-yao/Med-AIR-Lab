@@ -19,40 +19,6 @@
   position: relative;
 }
 
-.tags {
-  display: inline-flex;
-  justify-content: center;
-  align-items: center;
-  flex-wrap: wrap;
-  gap: 10px;
-  max-width: 100%;
-  margin: 20px 0;
-}
-
-.tag {
-  font-size: 12px;
-  max-width: 100%;
-  margin: 0;
-  padding: 5px 10px;
-  border-radius: 999px;
-  border: 1px solid var(--primary);
-  background: var(--msk-blue-medium);
-  color: white;
-  text-decoration: none;
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-  transition-property: background, color;
-}
-
-.tag:hover {
-  background: var(--msk-blue);
-}
-
-.tag[data-active] {
-  background: var(--msk-blue);
-}
-
 #portrait {
   /* color: #1367a7;
   color: rgb(34, 110, 147); */
