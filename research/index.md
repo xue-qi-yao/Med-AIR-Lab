@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: Research works
+  tooltip: Research directions
 ---
 
 {%include research.html%}
