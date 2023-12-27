@@ -59,8 +59,7 @@
   z-index: 1;
   text-align: center;
   display: flex;
-  /* padding-top: auto; */
-  padding-top: 10%;
+  padding-top: auto;
   padding-bottom: auto;
   padding-left: 5px;
   padding-right: 5px;
