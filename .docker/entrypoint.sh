@@ -14,4 +14,4 @@ watchmedo auto-restart \
     --patterns="_config.yaml" \
     --signal SIGTERM \
     -- bundle exec jekyll serve --open-url --force_polling --livereload --trace --host=0.0.0.0 \
-    | sed "s/LiveReload address.*//g;s/0.0.0.0/localhost/g" &
+    | sed "s/LiveReload address.*//g;s/0.0.0.0/localhost/g"
