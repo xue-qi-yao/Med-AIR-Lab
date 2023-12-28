@@ -6,71 +6,71 @@
 
     const photos = [
     {
-        src: 'images/gallery1.png',
+        src: '../images/gallery1.png',
         caption: 'Gallery 1'
     },
     {
-        src: 'images/gallery2.png',
+        src: '../images/gallery2.png',
         caption: 'Gallery 2'
     },
     {
-        src: 'images/gallery3.png',
+        src: '../images/gallery3.png',
         caption: 'Gallery 3'
     },
     {
-        src: 'images/gallery4.png',
+        src: '../images/gallery4.png',
         caption: 'Gallery 4'
     },
     {
-        src: 'images/gallery5.png',
+        src: '../images/gallery5.png',
         caption: 'Gallery 5'
     },
     {
-        src: 'images/gallery6.png',
+        src: '../images/gallery6.png',
         caption: 'Gallery 6'
     },
     {
-        src: 'images/gallery7.png',
+        src: '../images/gallery7.png',
         caption: 'Gallery 7'
     },
     {
-        src: 'images/gallery8.png',
+        src: '../images/gallery8.png',
         caption: 'Gallery 8'
     },
     {
-        src: 'images/gallery9.png',
+        src: '../images/gallery9.png',
         caption: 'Gallery 9'
     },
     {
-        src: 'images/gallery10.png',
+        src: '../images/gallery10.png',
         caption: 'Gallery 10'
     },
     {
-        src: 'images/gallery11.png',
+        src: '../images/gallery11.png',
         caption: 'Gallery 11'
     },
     {
-        src: 'images/gallery12.png',
+        src: '../images/gallery12.png',
         caption: 'Gallery 12'
     },
     {
-        src: 'images/gallery13.png',
+        src: '../images/gallery13.png',
         caption: 'Gallery 13'
     },
     {
-        src: 'images/gallery14.png',
+        src: '../images/gallery14.png',
         caption: 'Gallery 14'
     },
     {
-        src: 'images/gallery15.png',
+        src: '../images/gallery15.png',
         caption: 'Gallery 15'
     },
     {
-        src: 'images/gallery16.png',
+        src: '../images/gallery16.png',
         caption: 'Gallery 16'
     },
     {
-        src: 'images/gallery17.png',
+        src: '../images/gallery17.png',
         caption: 'Gallery 17'
     }
     ];
